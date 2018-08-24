@@ -1,0 +1,17 @@
+#TaxID	SpeciesName	Source	Domain	StrainName
+9606	homo_sapiens	Ensembl	metazoa	homo_sapiens
+10090	mus_musculus	Ensembl	metazoa	mus_musculus
+559292	saccharomyces_cerevisiae	EnsemblGenome	fungi	saccharomyces_cerevisiae
+83333	escherichia_coli	EnsemblGenome	bacteria	escherichia_coli_str_k_12_substr_mg1655
+10116	rattus_norvegicus	Ensembl	metazoa	rattus_norvegicus
+6239	caenorhabditis_elegans	EnsemblGenome	metazoa	caenorhabditis_elegans
+3702	arabidopsis_thaliana	EnsemblGenome	plants	arabidopsis_thaliana
+9031	gallus_gallus	Ensembl	metazoa	gallus_gallus
+7227	drosophila_melanogaster	EnsemblGenome	metazoa	drosophila_melanogaster
+284812	schizosaccharomyces_pombe	EnsemblGenome	fungi	schizosaccharomyces_pombe
+9913	bos_taurus	Ensembl	metazoa	bos_taurus
+7955	danio_rerio	Ensembl	metazoa	danio_rerio
+9986	oryctolagus_cuniculus	Ensembl	metazoa	oryctolagus_cuniculus
+9823	sus_scrofa	Ensembl	metazoa	sus_scrofa
+9615	canis_familiaris	Ensembl	metazoa	canis_familiaris
+208964	pseudomonas_aeruginosa	EnsemblGenome	bacteria	pseudomonas_aeruginosa_mpao1_p2
